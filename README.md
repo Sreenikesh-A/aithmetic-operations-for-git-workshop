@@ -1,2 +1,1 @@
-# aithmetic-operations-for-git-workshop
-git workshop
+simple python project that shows addition and multiplication
